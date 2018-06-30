@@ -1,6 +1,7 @@
 # ddclient
 My setup for `spdyn.de` using docker-compose
 
+Running on `dirac`
 Using image from [linuxserver/docker-ddclient](https://github.com/linuxserver/docker-ddclient)
 
 ## Setup
