@@ -1,5 +1,7 @@
 # ddclient
 
+Note: _Deprecated. Exec and config moved to im-qcic/infra_
+
 My setup for `spdyn.de` using docker-compose
 
 Running on `dirac`
